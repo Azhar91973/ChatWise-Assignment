@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ChatWiseAssignment</string>
+    <string name="view_products">View Products</string>
+    <string name="products_list">Products List</string>
+    <string name="products_title">Products Title</string>
+    <string name="products_description">Products Description</string>
+</resources>
